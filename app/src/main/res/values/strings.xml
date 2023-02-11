@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Inglés</string>
+    <string name="opcion3">Español</string>
+    <string name="hotel">Hoteles</string>
+    <string name="rest">Restaurantes</string>
+    <string name="nameP">Melissa Puerta S.</string>
+    <string name="texto">Hola, soy Asistente en desarrollo de software, actualmente estoy haciendo una técnica y gracias a ello estoy desarrollando esta app, este pueblo lo elegí gracias a que la mayoria de mi familia es de ahí, por lo tanto he crecido con su increible cultura y por eso mismo me parece tan importante resaltarlo</string>
+    <string name="welcome">¡ Bienvenid@ !</string>
+
+</resources>

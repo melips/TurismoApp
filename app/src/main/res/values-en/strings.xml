@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="hotel">Hotels</string>
+    <string name="rest">Restaurants</string>
+    <string name="nameP">Melissa Puerta S.</string>
+    <string name="texto">Hi, I am a software development assistant, I am currently doing a technique and thanks to that I am developing this app, I chose this town thanks to the fact that most of my family is from there, therefore I have grown up with its incredible culture and for that very reason I think its so important to highlight it</string>
+    <string name="welcome">¡ Welcome !</string>
+
+</resources>
